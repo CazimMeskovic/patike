@@ -37,12 +37,12 @@ return (
       }>
         <nav className='flex items-center justify-between nike-container'>
             <div className='flex items-center'>
-              {/*   <img
+                 <img
                     src={logo}
                     alt="logo/img"
-                    className={`w-16 h-auto ${navState && "filter brightness-0"}`}
-                /> */}
-                 <h3   className={`w-46 h-auto text-red-700 ${navState && "filter brightness-0"}`}>Cazim Meskovic <span className='text-xs'>Development</span></h3>
+                    className={`w-40 h-auto ${navState && "filter brightness-0"}`}  
+                /> 
+            { /*    <h3   className={`w-46 h-auto text-red-700 ${navState && "filter brightness-0"}`}>Cazim Meskovic <span className='text-xs'>Development</span></h3> */ }
                     
             </div>
             <ul className='flex items-center justify-center gap-2'>
