@@ -1,4 +1,4 @@
-import heroimg from "../assets/hero.png";
+ import heroimg from "../assets/hero.png";
 
 import hightlightimg from "../assets/hightlightimg.png";
 import sneakershoe from "../assets/sneaker.png";
@@ -376,3 +376,4 @@ const footerAPI = {
 
 
 export { heroapi, footerAPI, story, sneaker, highlight, toprateslaes, popularsales };
+ 
